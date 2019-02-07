@@ -22,3 +22,16 @@ Spelling mistakes corrected after input.
 Contract gereation - 
 
 
+Material-
+-Sales view missing
+-Costing data
+-Valuation type
+-Migration has not happened properly.
+-Control code missing /IDT input
+
+Material-
+-Sales view missing
+-Costing data
+-Valuation type
+-Migration has not happened properly.
+-Control code missing /IDT input
