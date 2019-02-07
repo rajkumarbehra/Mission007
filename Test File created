@@ -1,3 +1,5 @@
+Another change by BS
+
 For Polymer & Polyester business, Inquiry is the first stage of transaction recording. Inquiry is recorded in CRM system. Inquiry document captures information about the requirements from the prospective customer namely customer details, price, materials and the quantity. Inquiry document once created goes for two level of approval in the system. Once the inquiry is approved, it is auto-converted into a contract and is interfaced in with SAP.
 Observation
 Review of contract status for products (PP & PSF) in CRM portal vis-a-vis SAP for the period of 01.01.2018 to 31.08.2018 and highlighted 3 contracts wherein the contract status in SAP was ‘Released’ despite the contract status in CRM being ‘Cancelled & Short Closed’. Details are summarized below: 
