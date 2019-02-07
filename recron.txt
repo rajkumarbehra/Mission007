@@ -1,0 +1,23 @@
+
+
+Material-
+-Sales view missing
+-Costing data
+-Valuation type
+-Migration has not happened properly.
+-Control code missing /IDT input
+
+77 Random material given also having problem.
+
+Recron team was suppose to give inputs in the 
+material for the errors.
+
+Sandeep babre sent mail to Sandeep.
+
+Costing data upload and PAF checking.
+Observations corrected.
+Spelling mistakes corrected after input.
+
+Contract gereation - 
+
+
